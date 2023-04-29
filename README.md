@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya gaur</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from Madan Mohan Malaviya University of Technology , Gorakhpur , U.P. , India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityagaur7&label=Profile%20views&color=0e75b6&style=flat" alt="adityagaur7" /> </p>
 
