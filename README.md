@@ -21,7 +21,7 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1HFY3i67RRwQjtKNUXYfGX9xQIiEOTadg/view?usp=sharing](https://drive.google.com/file/d/1HFY3i67RRwQjtKNUXYfGX9xQIiEOTadg/view?usp=sharing)
 
 - ⚡ Fun fact **I think programmers are bit lazy that why I am lazy 😂**
-
+<img src="https://holopin.me/adityagaur7">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/aditya7112027" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aditya7112027" height="30" width="40" /></a>
