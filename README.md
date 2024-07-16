@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [An Ecommerce Project](https://github.com/AdityaGaur7/MERN-ECOMM)
 
-- 🌱 I’m currently learning **Competitive Programming**
+- 🌱 I’m currently doing **Competitive Programming**
 
 - 👨‍💻 All of my projects are available at [https://adgaurportfolio.vercel.app/](https://adgaurportfolio.vercel.app/)
 
