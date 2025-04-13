@@ -15,7 +15,7 @@
 </div>
 <div align="center">
 
-   <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=adityagaur7&show_icons=true&locale=en" alt="adityagaur7" /></p>
+   <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=adityagaur7&show_icons=true&locale=en" alt="adityagaur7" /></p>
 </div>
 
 
