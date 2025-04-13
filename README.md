@@ -7,9 +7,18 @@
 
 </p>
 
+<div align="center" style="display:flex">
+  <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=adityagaur7&" alt="adityagaur7" /></p>
+   <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=adityagaur7&show_icons=true&locale=en" alt="adityagaur7" /></p>
+  <br>
+</div>
+<div align="center">
+   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityagaur7&show_icons=true&locale=en&layout=compact" alt="adityagaur7" /></p>
+
+</div>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityagaur7" alt="adityagaur7" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityagaur7" alt="adityagaur7" /></a> </p>
 
 
 - 🔭 I’m currently working on [An Ecommerce Project](https://github.com/AdityaGaur7/MERN-ECOMM)
@@ -179,7 +188,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40" style="border-radius: 8px;"/>
 </a>
 </p>
-
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/adgaur027"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="adgaur027" /></a></p><br><br>
