@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityagaur7&label=Profile%20views&color=0e75b6&style=flat](https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="adityagaur7" /> </p>
 <p align="center"> 
-<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/121216575/433161252-98c659ef-5471-4080-b3d2-23e84a30cee8.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250413%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250413T192259Z&X-Amz-Expires=300&X-Amz-Signature=a878d49bf1ee1093e6f2d6c00cebc3051fa0059d32d9d2759d4cc56ab41d01a6&X-Amz-SignedHeaders=host" alt="adityagaur7" width="50%" height="50%"/>
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/121216575/433161252-98c659ef-5471-4080-b3d2-23e84a30cee8.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250413%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250413T192259Z&X-Amz-Expires=300&X-Amz-Signature=a878d49bf1ee1093e6f2d6c00cebc3051fa0059d32d9d2759d4cc56ab41d01a6&X-Amz-SignedHeaders=host" alt="adityagaur7" width="80%" height="80%"/>
 
 </p>
 
