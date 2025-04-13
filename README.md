@@ -9,12 +9,13 @@
 
 <div align="center" style="display:flex">
   <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=adityagaur7&" alt="adityagaur7" /></p>
-   <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=adityagaur7&show_icons=true&locale=en" alt="adityagaur7" /></p>
+     <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityagaur7&show_icons=true&locale=en&layout=compact" alt="adityagaur7" /></p>
+
   <br>
 </div>
 <div align="center">
-   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityagaur7&show_icons=true&locale=en&layout=compact" alt="adityagaur7" /></p>
 
+   <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=adityagaur7&show_icons=true&locale=en" alt="adityagaur7" /></p>
 </div>
 
 
