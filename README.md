@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya Gaur</h1>
-<h3 align="center">A passionate Full $tack developer from Madan Mohan Malaviya University of Technology , Gorakhpur,Uttar Pradesh,India</h3>
+<h3 align="center">A passionate $oftware Engineer</h3>
 
 
 
