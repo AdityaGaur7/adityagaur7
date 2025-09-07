@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aditya Gaur</h1>
 <h3 align="center">A passionate $oftware Engineer</h3>
 
+![solar system](https://github.com/user-attachments/assets/bd641af8-5e32-4142-a9c4-cd41b3828e48)
 
 
 <p align="center">
