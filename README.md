@@ -11,6 +11,8 @@
     <img src="https://img.shields.io/badge/Portfolio-5669a3" alt="adgaur027" />
   </a>
 </p>
+![9ad82e496decf3e1b43a40c14e2275f5](https://github.com/user-attachments/assets/f2c93c27-bea5-42f7-b2e1-b2e582080e1b)
+
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=adityagaur7&label=Profile%20views&color=0e75b6&style=flat](https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="adityagaur7" /> </p>
 
