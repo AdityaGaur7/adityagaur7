@@ -1,4 +1,4 @@
-<div style="background-color=black">
+<div style="background-color:black">
   
 
 <h1 align="center">Hi 👋, I'm Aditya Gaur</h1>
