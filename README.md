@@ -47,7 +47,7 @@
 
 - 👨‍💻 All of my projects are available at [https://adgaurportfolio.vercel.app/](https://adgaurportfolio.vercel.app/)
 
-- 💬 Ask me about **ReactJs, AngularJs , NextJs , Mongodb , ExpressJs, NodeJs , Docker ,**
+- 💬 Ask me about **MERN, AngularJs, NextJs, Mongodb, Springboot, Gen Ai, Rag, SQL **
 
 - 📫 How to reach me **adgaur027@gmail.com**
 
